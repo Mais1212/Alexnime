@@ -1,0 +1,4 @@
+xlwt==1.3.0
+requests==2.24.0
+HTMLParser==0.0.2
+beautifulsoup4==4.9.1
